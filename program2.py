@@ -1,4 +1,4 @@
 # My second program in Python
 
-print("Hi again")
-
+print("Hello again")
+print("George here!")
